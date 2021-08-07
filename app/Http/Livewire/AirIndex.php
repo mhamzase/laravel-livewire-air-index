@@ -6,7 +6,7 @@ use Livewire\Component;
 use App\Models\Country;
 use App\Models\State;
 use App\Models\City;
-use Illuminate\support\Facades\HTTP;
+use Illuminate\Support\Facades\HTTP;
 
 class AirIndex extends Component
 {
